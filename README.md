@@ -63,7 +63,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 The Santander group is a global banking group, led by Banco Santander S.A., the largest bank in the euro area. It has its origin in Santander, Cantabria, Spain.
 As part of their empowerment culture, they create the Data Master program.
 
@@ -83,7 +83,16 @@ The program has 3 evaluation phases, which are:
 * []()Phase 3: the top 3 participants receive the opportunity to do a Project provided by Santander as well as a mentorship session with Santander staff.
 
 ### Learning
-* []()
+After selecting the 100 participants, the academy provided structured teaching material covering the most important knowledge and skills that a data scientist should have. The following topics were addressed:
+
+* []() Probability and Statistics: from basics to advanced concepts;
+* []() SQL and NoSQL;
+* []() Big Data concepts and applications;
+* []() Programming;
+* []() Regression: Linear, Multiple, Ridge & Lasso, Variable Selection
+* []() Classification: Logistic Regression, Decision Tree, Random Forest and Naive Bayes;
+* []() Clustering: K-means, Hierarchical Clustering (divisive and agglomerative), Latent Dirichlet Allocation;
+* []() Performance Metrics.
 
 
 ### Case Introduction
