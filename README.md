@@ -1,7 +1,3 @@
-# Santander-Case
-
-# Santander-Case
-
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
 *** make this better, please fork the repo and create a pull request or simply open
@@ -34,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PedroHCouto/Santander-Case">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpeg" width="80" height="80">
   </a>
 
   <h3 align="center">SANTANDER DATA MASTERS CASE</h3>
