@@ -36,7 +36,7 @@
   <h3 align="center">SANTANDER DATA MASTERS CASE</h3>
 
   <p align="center">
-    This project was done as part of the mentorship program that I received for winning the Data Masters Program of Santander Bank
+    This project was made as part of the mentorship program that I received for winning the Data Masters Program of Santander Bank
     <br />
   </p>
 </p>
@@ -63,20 +63,24 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+The Santander group is a global banking group, led by Banco Santander S.A., the largest bank in the euro area. It has its origin in Santander, Cantabria, Spain.
+As part of their empowerment culture, they create the Data Master program.
 
 ### The Program
-* []()
+
+Santander Data Masters - Data Science is a teaching and certification program provided by the corporate university of Academia Santander.
+The program consists of a mix of training and competition, where Santander University provides content and selects the best participants.
 
 
 ### Competition
-* []()
+The program has 3 evaluation phases, which are:
 
+* []()Phase 1: the candidates must take the Cultural Fit, General Knowledge and Logic Reasoning assessments. In this phase, there were about 3200 candidates and only 100 were selected.
+
+* []()Phase 2: the candidates have 33 days to study all material selected by Santander Academy. In the end, there was a technical assessment and it is needed a performance over 50% to get certified.
+
+* []()Phase 3: the top 3 participants receive the opportunity to do a Project provided by Santander as well as a mentorship session with Santander staff.
 
 ### Learning
 * []()
