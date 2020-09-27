@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PedroHCouto/Santander-Case">
-    <img src="images/logo.jpeg" width="800" height="300">
+    <img src="images/logo.jpeg" width="800" height="200">
   </a>
 
   <h3 align="center">SANTANDER DATA MASTERS CASE</h3>
