@@ -33,7 +33,7 @@
   * [Learning](#learning)
   * [Case Introduction](#case-introduction)
   * [Part A: Classification](#part-a-classification)
-  * [Part B: Net Promoter Score (NPS)](#part-b-net-promoter-score-(NPS))
+  * [Part B: Net Promoter Score - NPS](#part-b-net-promoter-score-nps)
   * [Part C: Clustering](#part-c-clustering)
 * [Roadmap](#roadmap)
 * [License](#license)
