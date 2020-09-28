@@ -1,27 +1,11 @@
 <!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** , repo_name, twitter_handle, email
+*** I got this amazing README from here: https://github.com/othneildrew/Best-README-Template
 -->
 
 
+*** I got this amazing README
 
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -52,7 +36,7 @@
   * [Learning](#learning)
   * [Case Introduction](#case-introduction)
   * [Part A: Classification](part-a-classification)
-  * [Part B:](#part-b)
+  * [Part B: Net Promoter Score (NPS)](#part-b-net-promoter-score-(NPS))
   * [Part C: Clustering](#part-c-clustering)
 * [Roadmap](#roadmap)
 * [License](#license)
@@ -68,6 +52,8 @@ The Santander group is a global banking group, led by Banco Santander S.A., the 
 As part of their empowerment culture, they create the Data Master program.
 
 **This repository contains the 3 Jupyter Notebooks used to solve the 3 parts of the challenge purpose by Santander.**
+
+Competition website: https://www.becas-santander.com/en/program/santanderdatamasters-cienciadedados2020
 
 ### The Program
 
@@ -105,22 +91,27 @@ The bank wants to know better when to apply its customer retention program. The 
 The problems are:
 
 ### Part A: Classification
+
 In this part, we want to classify if the customer is unsatisfied or not. The retention program cost $10 for each customer and an effective application (in customers that are really unsatisfied) returns a profit of $100.
 In the classification task we can have the following scenarios:
 
 * []() 1. False Positive(FP): classify the customer as UNSATISFIED but he is SATISFIED. Cost: $ 10, Earn: $ 0.
-* []() 2. False Negative(FN): classify the customer as SATISFIED but he is DISSATISFIED. Cost: $ 0, Earn: $ 0 (Though we are not losing money, we are losing opportunity earn).
+* []() 2. False Negative(FN): classify the customer as SATISFIED but he is DISSATISFIED. Cost: $ 0, Earn: $ 0
 * []() 3. True Positive(TP): classify the customer as UNSATISFIED and he is UNSATISFIED. Cost: $ 10, Earn: $ 100.
 * []() 4. True Negative(TN): classify the customer as SATISFIED and he is SATISFIED. Cost: $ 0, Earn: $ 0.
 
 In summary we want to minimize the rate of FP and FN as well as maximize the rate of TP. To do so, we will use the metric AUC of ROC Curve, because it returns to us the best model as well as the best threshold.
 
-### Part B:
-* []()
+### Part B: Net Promoter Score (NPS):
+
+This task consists of giving a rating from 1 to 5 for each customer of the test base, respecting the variable 'TARGET', that is, their level of satisfaction, 1 being the most dissatisfied and 5 the most satisfied. The retention program should only be applied on customers we NPS 1.
+
+It means we should create system to evaluate the Net Promoter Score of each customer.
 
 
 ### Part C: Clustering
-* []()
+
+The third task is to find the three natural groups that have the highest expected profits per customer. That means the 3 groups that have the highest amount of unsatisfied customers
 
 ### Built With
 
@@ -136,43 +127,19 @@ In summary we want to minimize the rate of FP and FN as well as maximize the rat
 See the [open issues](https://github.com/PedroHCouto/Santander-Case/issues) for a list of proposed features (and known issues).
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+E-mail: pedrocouto39@gmail.com
+LinkedIn: https://www.linkedin.com/in/pedrocouto39/?locale=en_US
+Kaggle: https://www.kaggle.com/pedrocouto39
+XING: https://www.xing.com/profile/Pedro_Couto8/cv
 
 Project Link: [https://github.com/PedroHCouto/Santander-Case](https://github.com/PedroHCouto/Santander-Case)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pedrocouto39/?locale=en_US
 [product-screenshot]: images/screenshot.png
