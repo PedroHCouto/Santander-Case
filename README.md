@@ -1,9 +1,6 @@
 <!--
-*** I got this amazing README from here: https://github.com/othneildrew/Best-README-Template
+*** I got this amazing README from here: https://github.com/othneildrew/Best-README-Template 
 -->
-
-
-*** I got this amazing README
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -41,7 +38,6 @@
 * [Roadmap](#roadmap)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -115,26 +111,18 @@ The third task is to find the three natural groups that have the highest expecte
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/PedroHCouto/Santander-Case/issues) for a list of proposed features (and known issues).
-
+* []() Jupyter Notebook
+* []() Python
+* []() Scikit-learn
 
 
 <!-- CONTACT -->
 ## Contact
 
-E-mail: pedrocouto39@gmail.com
-LinkedIn: https://www.linkedin.com/in/pedrocouto39/?locale=en_US
-Kaggle: https://www.kaggle.com/pedrocouto39
-XING: https://www.xing.com/profile/Pedro_Couto8/cv
+E-mail: pedrocouto39@gmail.com     
+LinkedIn: https://www.linkedin.com/in/pedrocouto39/?locale=en_US   
+Kaggle: https://www.kaggle.com/pedrocouto39   
+XING: https://www.xing.com/profile/Pedro_Couto8/cv   
 
 Project Link: [https://github.com/PedroHCouto/Santander-Case](https://github.com/PedroHCouto/Santander-Case)
 
