@@ -38,7 +38,6 @@
 * [Roadmap](#roadmap)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
