@@ -67,6 +67,8 @@
 The Santander group is a global banking group, led by Banco Santander S.A., the largest bank in the euro area. It has its origin in Santander, Cantabria, Spain.
 As part of their empowerment culture, they create the Data Master program.
 
+**This repository contains the 3 Jupyter Notebooks used to solve the 3 parts of the challenge purpose by Santander.**
+
 ### The Program
 
 Santander Data Masters - Data Science is a teaching and certification program provided by the corporate university of Academia Santander.
@@ -83,7 +85,7 @@ The program has 3 evaluation phases, which are:
 * []()Phase 3: the top 3 participants receive the opportunity to do a Project provided by Santander as well as a mentorship session with Santander staff.
 
 ### Learning
-After selecting the 100 participants, the academy provided structured teaching material covering the most important knowledge and skills that a data scientist should have. The following topics were addressed:
+After selecting the 100 participants, the academy provided structured learning material covering the most important knowledge and skills that a data scientist should have. The following topics were addressed:
 
 * []() Probability and Statistics: from basics to advanced concepts;
 * []() SQL and NoSQL;
@@ -96,12 +98,22 @@ After selecting the 100 participants, the academy provided structured teaching m
 
 
 ### Case Introduction
-* []()
+As the winner of the program I receive the opportunity to solve a case provided by Santander's Staff.
 
+The bank wants to know better when to apply its customer retention program. The program should apply only to those customers that are really unsatisfied (Target = 1) and customers not unsatisfied (Target = 0) should be ignored. The 3 problems purposed round around to maximize the expected profit by reducing the misclassification amount.
+
+The problems are:
 
 ### Part A: Classification
-* []()
+In this part, we want to classify if the customer is unsatisfied or not. The retention program cost $10 for each customer and an effective application (in customers that are really unsatisfied) returns a profit of $100.
+In the classification task we can have the following scenarios:
 
+* []() 1. False Positive(FP): classify the customer as UNSATISFIED but he is SATISFIED. Cost: $ 10, Earn: $ 0.
+* []() 2. False Negative(FN): classify the customer as SATISFIED but he is DISSATISFIED. Cost: $ 0, Earn: $ 0 (Though we are not losing money, we are losing opportunity earn).
+* []() 3. True Positive(TP): classify the customer as UNSATISFIED and he is UNSATISFIED. Cost: $ 10, Earn: $ 100.
+* []() 4. True Negative(TN): classify the customer as SATISFIED and he is SATISFIED. Cost: $ 0, Earn: $ 0.
+
+In summary we want to minimize the rate of FP and FN as well as maximize the rate of TP. To do so, we will use the metric AUC of ROC Curve, because it returns to us the best model as well as the best threshold.
 
 ### Part B:
 * []()
