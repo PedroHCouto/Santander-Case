@@ -1,9 +1,6 @@
 <!--
-*** I got this amazing README from here: https://github.com/othneildrew/Best-README-Template
+*** I got this amazing README from here: https://github.com/othneildrew/Best-README-Template 
 -->
-
-
-*** I got this amazing README
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
