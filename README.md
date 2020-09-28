@@ -120,10 +120,10 @@ The third task is to find the three natural groups that have the highest expecte
 <!-- CONTACT -->
 ## Contact
 
-E-mail: pedrocouto39@gmail.com
-LinkedIn: https://www.linkedin.com/in/pedrocouto39/?locale=en_US
-Kaggle: https://www.kaggle.com/pedrocouto39
-XING: https://www.xing.com/profile/Pedro_Couto8/cv
+E-mail: pedrocouto39@gmail.com     
+LinkedIn: https://www.linkedin.com/in/pedrocouto39/?locale=en_US   
+Kaggle: https://www.kaggle.com/pedrocouto39   
+XING: https://www.xing.com/profile/Pedro_Couto8/cv   
 
 Project Link: [https://github.com/PedroHCouto/Santander-Case](https://github.com/PedroHCouto/Santander-Case)
 
