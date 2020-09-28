@@ -32,8 +32,8 @@
   * [Competition](#competition)
   * [Learning](#learning)
   * [Case Introduction](#case-introduction)
-  * [Part A: Classification](part-a-classification)
-  * [Part B: Net Promoter Score (NPS)](#part-b-net-promoter-score-(NPS))
+  * [Part A: Classification](#part-a-classification)
+  * [Part B: Net Promoter Score - NPS](#part-b-net-promoter-score-nps)
   * [Part C: Clustering](#part-c-clustering)
 * [Roadmap](#roadmap)
 * [License](#license)
@@ -98,7 +98,7 @@ In the classification task we can have the following scenarios:
 
 In summary we want to minimize the rate of FP and FN as well as maximize the rate of TP. To do so, we will use the metric AUC of ROC Curve, because it returns to us the best model as well as the best threshold.
 
-### Part B: Net Promoter Score (NPS):
+### Part B: Net Promoter Score (NPS)
 
 This task consists of giving a rating from 1 to 5 for each customer of the test base, respecting the variable 'TARGET', that is, their level of satisfaction, 1 being the most dissatisfied and 5 the most satisfied. The retention program should only be applied on customers we NPS 1.
 
