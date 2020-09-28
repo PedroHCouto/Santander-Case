@@ -113,7 +113,7 @@ The third task is to find the three natural groups that have the highest expecte
 
 * []() Jupyter Notebook
 * []() Python
-* []() Scikit-learning
+* []() Scikit-learn
 
 
 <!-- CONTACT -->
