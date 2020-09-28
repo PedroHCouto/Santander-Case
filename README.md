@@ -112,17 +112,9 @@ The third task is to find the three natural groups that have the highest expecte
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/PedroHCouto/Santander-Case/issues) for a list of proposed features (and known issues).
-
+* []() Jupyter Notebook
+* []() Python
+* []() Scikit-learning
 
 
 <!-- CONTACT -->
