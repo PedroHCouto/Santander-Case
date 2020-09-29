@@ -52,7 +52,7 @@ Competition website: https://www.becas-santander.com/en/program/santanderdatamas
 
 ### The Program
 
-Santander Data Masters - Data Science is a teaching and certification program provided by the corporate university of Academia Santander.
+Santander Data Masters - Data Science is a learning and certification program provided by the corporate university of Academia Santander.
 The program consists of a mix of training and competition, where Santander University provides content and selects the best participants.
 
 
