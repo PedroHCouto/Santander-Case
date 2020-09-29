@@ -35,8 +35,7 @@
   * [Part A: Classification](#part-a-classification)
   * [Part B: Net Promoter Score - NPS](#part-b-net-promoter-score-nps)
   * [Part C: Clustering](#part-c-clustering)
-* [Roadmap](#roadmap)
-* [License](#license)
+* [Built With](#built-with)
 * [Contact](#contact)
 
 
@@ -53,7 +52,7 @@ Competition website: https://www.becas-santander.com/en/program/santanderdatamas
 
 ### The Program
 
-Santander Data Masters - Data Science is a teaching and certification program provided by the corporate university of Academia Santander.
+Santander Data Masters - Data Science is a learning and certification program provided by the corporate university of Academia Santander.
 The program consists of a mix of training and competition, where Santander University provides content and selects the best participants.
 
 
@@ -109,7 +108,7 @@ It means we should create system to evaluate the Net Promoter Score of each cust
 
 The third task is to find the three natural groups that have the highest expected profits per customer. That means the 3 groups that have the highest amount of unsatisfied customers
 
-### Built With
+## Built With
 
 * []() Jupyter Notebook
 * []() Python
