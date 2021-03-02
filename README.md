@@ -128,5 +128,5 @@ Project Link: [https://github.com/PedroHCouto/Santander-Case](https://github.com
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/pedrocouto39/?locale=en_US
+[linkedin-url]: https://www.linkedin.com/in/pdr-couto/
 [product-screenshot]: images/screenshot.png
